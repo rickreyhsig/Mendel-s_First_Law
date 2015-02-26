@@ -7,4 +7,4 @@ Return: The probability that two randomly selected mating organisms will produce
 <http://rosalind.info/problems/iprb/>
 
 Sample Dataset - Sample Output
-2 2 2 - 0.78333
+* 2 2 2 - 0.78333
